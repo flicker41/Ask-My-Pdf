@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+rank-bm25
+PyMuPDF
+sentence-transformers
+requests
+python-multipart
